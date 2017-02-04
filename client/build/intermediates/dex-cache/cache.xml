@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_a35df9c67c83fd472bb2e7d43d60a69580ffd960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="462b7d0226bda9ac51f3745a106ee5f8537bb723">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/instant-run_a5e97cb11cc2bd55f3f13864c473a7aeef733a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_3e9ab7c8a00685f7bc1fda870644a1940304f6ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/okio-1.6.0_f5596e51cddb6a821440d0998eb68e38114e4b2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_a35df9c67c83fd472bb2e7d43d60a69580ffd960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_e5340c2f26327a6b76575736fc815007defdfe23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_4085d0784d9a119e00547f1ec3a5bb12544988d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_585353bbbfcc528512825c6e5d50c7b9a99e4a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_ddee48139a2555a72c1b15709bf5fe5f646e8568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_e62ba9dd980595532de0fa0dad74ccb4c56d38eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_6cd98ec63ed0218438a6ea6ba706841ecc3958b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_ddee48139a2555a72c1b15709bf5fe5f646e8568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_803397ecfa32141b9814c8a4f0cbc695b369d511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/gson-2.6.1_a8a51b9dc38a9f5108d416b2f0d6e96b4dfea0d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_846a0c8e04f897ff7907d56d7307670b51451e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_4d26e1d336c8014e3f4bad45f8c92ee93a04c4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_03f410ac9eb4beb5fa0a5170db07a0d9170d24eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/gson-2.6.1_a8a51b9dc38a9f5108d416b2f0d6e96b4dfea0d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_4d26e1d336c8014e3f4bad45f8c92ee93a04c4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_03f410ac9eb4beb5fa0a5170db07a0d9170d24eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_143012320c81862453299ce4f392239a23a24574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/okio-1.6.0_f5596e51cddb6a821440d0998eb68e38114e4b2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_22836a383e67acd00414e1552364ed9cb5ea4ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_1efb14d7f98a4c2a60b322f70d3c1d8b02e1a925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_1dfd967babd33f22f9a136115512762129b11c55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6d949de37290a99d9cadf4f82689b0a5399e3bc">
+        <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b6216958c673c4ea2832b335c26b72750875fb4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_7d4561893b43dc296899068b9cea84e80f59dd45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/ravi/Desktop/project/programs/AndroidLoginRegistration (2)/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_9395849e8cd27bfd4b61527ff07255279e74a645.jar" />
+    </item>
+
+</items>
