@@ -3,7 +3,7 @@ package com.learn2crack.loginregistration;
 
 public class Constants {
 
-    public static final String BASE_URL = "http://10.0.2.2/";
+    public static final String BASE_URL = "http://192.168.42.167:80/";
     public static final String REGISTER_OPERATION = "register";
     public static final String LOGIN_OPERATION = "login";
     public static final String CHANGE_PASSWORD_OPERATION = "chgPass";

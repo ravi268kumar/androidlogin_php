@@ -54,10 +54,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textColor="#ffffff"
+
             android:id="@+id/et_mobile"
             android:drawableRight="@drawable/call"
             android:hint="Mobile No"
-            android:inputType="phone" />
+            android:inputType="phone"
+            />
     </android.support.design.widget.TextInputLayout>
 
     <android.support.design.widget.TextInputLayout
@@ -121,6 +123,7 @@
         android:id="@+id/btn_register"
         android:text="Register"
         android:layout_marginTop="15dp"
+        android:textSize="25dp"
         android:background="#DB3838"
         android:textColor="@android:color/white"
         android:layout_width="match_parent"

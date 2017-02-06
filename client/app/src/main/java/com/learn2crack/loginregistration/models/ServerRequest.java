@@ -1,6 +1,7 @@
 package com.learn2crack.loginregistration.models;
 
 
+
 public class ServerRequest {
 
     private String operation;

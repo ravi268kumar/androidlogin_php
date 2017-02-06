@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="462b7d0226bda9ac51f3745a106ee5f8537bb723">
+        sha1="67ff0aa86933a331776692c3ad69aa70f0181dd4">
         <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/instant-run_a5e97cb11cc2bd55f3f13864c473a7aeef733a97.jar" />
     </item>
     <item
@@ -232,7 +232,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="f6d949de37290a99d9cadf4f82689b0a5399e3bc">
+        sha1="460f408366e60278f104cc3e49c092e26d1c976f">
         <dex dex="/home/ravi/Desktop/project/AndroidLoginRegistration/client/LoginRegistration/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b6216958c673c4ea2832b335c26b72750875fb4c.jar" />
     </item>
     <item
