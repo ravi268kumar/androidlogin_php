@@ -97,7 +97,7 @@ public class login extends AppCompatActivity implements View.OnClickListener {
                         }else{
                             //If the server response is not success
                             //Displaying an error message on toast
-                            Toast.makeText(login.this, "Invalid username or password", Toast.LENGTH_LONG).show();
+                            Toast.makeText(login.this, response, Toast.LENGTH_LONG).show();
                         }
                     }
                 },
